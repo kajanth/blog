@@ -6,7 +6,7 @@ date: 2019-01-04
 comments: false
 ---
     
-<center><a href="http://blog.kajanth.me/about"><b>Kajanth Mayooranathan</b></a> Platform Engineer</center>
+<center><a href="http://blog.kajanth.me/about"><b>Kajanth Mayooranathan</b></a> Platform Engineer, Father of two and loving life.</center>
 
 ## Experience
 * Cloud
@@ -17,13 +17,6 @@ comments: false
 * Observability
 
 ## Preview
-
-{% capture images %}
-    https://png.pngtree.com/svg/20170803/kubernetes_ui_614933.png
-    https://png.pngtree.com/svg/20170803/kubernetes_ui_614933.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
 
 ## Getting Started with Kubernetes
 
