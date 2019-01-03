@@ -16,8 +16,6 @@ comments: false
 * Security
 * Observability
 
-## Preview
-
 ## Getting Started with Kubernetes
 
 To learn how to work with Kubernetes refer to [Starting Guide](https://github.com/kelseyhightower/kubernetes-the-hard-way) for more information.
