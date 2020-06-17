@@ -6,7 +6,7 @@ date: 2019-01-04
 comments: false
 ---
     
-<center><a href="http://blog.kajanth.me/about"><b>Kajanth Mayooranathan</b></a> Platform Engineer, Father of two and loving life.</center>
+<center><a href="http://blog.kajanth.dev/about"><b>Kajanth Mayooranathan</b></a> Platform Engineer, Father of two and loving life.</center>
 
 ## Company : Pearson
 ## Title: Senior SRE Engineer
