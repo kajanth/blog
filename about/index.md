@@ -9,7 +9,7 @@ comments: false
 <center><a href="http://blog.kajanth.dev/about"><b>Kajanth Mayooranathan</b></a> Platform Engineer, Father of two and loving life.</center>
 
 ## Company : Pearson
-## Title: Senior SRE Engineer
+## Title: Principal SRE
 
 ## Work on building Cloud Native tooling for the platform
 
